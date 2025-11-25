@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Imagem Consistente jornalista Jackeline",
+  "description": "Uma aplicação web para gerar imagens consistentes de personagens com IA, permitindo a personalização de roupas, objetos, cenários e a criação automática de thumbnails baseadas em templates.",
+  "requestFramePermissions": []
+}
